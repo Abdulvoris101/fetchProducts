@@ -1,0 +1,774 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/1-kolleksiya.A3-07-200x200.jpg",
+        "name": "A3-07",
+        "model": "A3-07",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "10.066",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "weight": "240 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 7,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/1-kolleksiya.A3-09-200x200.jpg",
+        "name": "A3-09",
+        "model": "A3-09",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "10.066",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "weight": "240 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":7,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/1-kolleksiya.A3-11-200x200.jpg",
+        "name": "A3-11",
+        "model": "A3-11",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "10.066",
+        "count": 10,
+        "status": true,
+        "color": [
+            19
+        ],
+        "property": 2,
+        "catalog":7,
+        "fabrictype":1,
+        "blackout": "50%" 
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/1-kolleksiya.A3-12-200x200.jpg",
+        "name": "A3-12",
+        "model": "A3-12",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "10.066",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "weight": "240 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 7,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.A38-3-200x200.jpg",
+        "name": "A38-3",
+        "model": "A38-3",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "blackout": "50%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog": 10
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.A38-4-200x200.jpg",
+        "name": "A38-4",
+        "model": "A38-4",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            10
+        ],
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":7
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.A38-5-200x200.jpg",
+        "name": "A38-5",
+        "model": "A38-5",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":7,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/1-kolleksiya.A4-09-200x200.jpg",
+        "name": "A4-09",
+        "model": "A4-09",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "10.066",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "weight": "240 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog":7
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/1-kolleksiya.A4-12-200x200.jpg",
+        "name": "A4-12",
+        "model": "A4-12",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "10.066",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "weight": "240 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog":7 
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.A55-1-200x200.jpg",
+        "name": "A55-1",
+        "model": "A55-1",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            13
+        ],
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog":11 
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.A55-2-200x200.jpg",
+        "name": "A55-2",
+        "model": "A55-2",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            13
+        ],
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog":11 
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.A55-4-200x200.jpg",
+        "name": "A55-4",
+        "model": "A55-4",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog":11 
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/5-kolleksiya.A7-1-200x200.jpg",
+        "name": "A7-1",
+        "model": "A7-1",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "26.843",
+        "count": 10,
+        "status": true,
+        "color": [
+            7
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "weight":"300 sm",
+        "catalog": 11
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/5-kolleksiya.A7-2-200x200.jpg",
+        "name": "A7-2",
+        "model": "A7-2",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "26.843",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "weight":"300 sm",
+        "catalog": 11
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/5-kolleksiya.A7-4-200x200.jpg",
+        "name": "A7-4",
+        "model": "A7-4",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "26.843",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "weight":"300 sm",
+        "catalog": 11
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/5-kolleksiya.A7-5-200x200.jpg",
+        "name": "A7-5",
+        "model": "A7-5",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "26.843",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "weight":"300 sm",
+        "catalog": 11
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.C1-01-200x200.jpg",
+        "name": "C1-01",
+        "model": "C1-01",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            4
+        ],
+        "weight": "270 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.C1-02-200x200.jpg",
+        "name": "C1-02",
+        "model": "C1-02",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            18
+        ],
+        "weight": "270 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.C1-03-200x200.jpg",
+        "name": "C1-03",
+        "model": "C1-03",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "weight": "270 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.C1-06-200x200.jpg",
+        "name": "C1-06",
+        "model": "C1-06",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "weight": "270 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.C1-07-200x200.jpg",
+        "name": "C1-07",
+        "model": "C1-07",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [8],
+        "weight": "270 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.C1-08-200x200.jpg",
+        "name": "C1-08",
+        "model": "C1-08",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "weight": "270 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.G03-002-200x200.jpg",
+        "name": "G03-002",
+        "model": "G03-002",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.G03-003-200x200.jpg",
+        "name": "G03-003",
+        "model": "G03-003",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.G03-005-200x200.jpg",
+        "name": "G03-005",
+        "model": "G03-005",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/2-kolleksiya.G03-007-200x200.jpg",
+        "name": "G03-007",
+        "model": "G03-007",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "21.810",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog": 9,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.JL326-2-200x200.jpg",
+        "name": "JL326-2",
+        "model": "JL326-2",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.JL326-6-200x200.jpg",
+        "name": "JL326-6",
+        "model": "JL326-6",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            13
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.JL326-7-200x200.jpg",
+        "name": "JL326-7",
+        "model": "JL326-7",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            13
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.JL326-8-200x200.jpg",
+        "name": "JL326-8",
+        "model": "JL326-8",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/IMG_6410-200x200.JPG",
+        "name": "JL701-8",
+        "model": "JL701-8",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "300 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X01-03-200x200.jpg",
+        "name": "X01-03",
+        "model": "X01-03",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            6
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X01-06-200x200.jpg",
+        "name": "X01-06",
+        "model": "X01-06",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X01-08-200x200.jpg",
+        "name": "X01-08",
+        "model": "X01-08",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X01-09-200x200.jpg",
+        "name": "X01-09",
+        "model": "X01-09",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X02-03-200x200.jpg",
+        "name": "X02-03",
+        "model": "X02-03",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            6
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X02-04-200x200.jpg",
+        "name": "X02-04",
+        "model": "X02-04",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            17
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X02-05-200x200.jpg",
+        "name": "X02-05",
+        "model": "X02-05",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            17
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X02-06-200x200.jpg",
+        "name": "X02-06",
+        "model": "X02-06",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X02-08-200x200.jpg",
+        "name": "X02-08",
+        "model": "X02-08",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/komboXitoy/4-kolleksiya.X02-09-200x200.jpg",
+        "name": "X02-09",
+        "model": "X02-09",
+        "type_id": false,
+        "category": 2,
+        "subcategory": 1,
+        "price": "25.165",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    }
+]
