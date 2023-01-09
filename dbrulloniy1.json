@@ -1,0 +1,184 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/1-200x200.jpg",
+        "name": "B-01",
+        "model": "B-01",
+        "type_id": false,
+        "category": 6,
+        "price": "12.582",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/2-200x200.jpg",
+        "name": "B-02",
+        "model": "B-02",
+        "type_id": false,
+        "category": 6,
+        "price": "12.582",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/3-200x200.jpg",
+        "name": "B-03",
+        "model": "B-03",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/4-200x200.jpg",
+        "name": "B-04",
+        "model": "B-04",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/5-200x200.jpg",
+        "name": "B-05",
+        "model": "B-05",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/6-200x200.jpg",
+        "name": "B-06",
+        "model": "B-06",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/7-200x200.jpg",
+        "name": "B-07",
+        "model": "B-07",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/8-200x200.jpg",
+        "name": "B-08",
+        "model": "B-08",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/9-200x200.jpg",
+        "name": "B-09",
+        "model": "B-09",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "20-30%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/10-200x200.jpg",
+        "name": "B-10",
+        "model": "B-10",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "20-30%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/11-200x200.jpg",
+        "name": "B-11",
+        "model": "B-11",
+        "type_id": false,
+        "category": 6,
+        "price": "18.454",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/12-200x200.jpg",
+        "name": "B-12",
+        "model": "B-12",
+        "type_id": false,
+        "category": 6,
+        "price": "20.132",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/Bambuk/13-200x200.jpg",
+        "name": "B-13",
+        "model": "B-13",
+        "type_id": false,
+        "category": 6,
+        "price": "20.132",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "blackout": "50%"
+    }
+]

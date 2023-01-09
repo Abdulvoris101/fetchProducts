@@ -1,0 +1,763 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/4%20koll%200333-3-200x200.jpg",
+        "name": "0333-3",
+        "model": "0333-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "40.264",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog": 11,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%201%2022001-11-200x200.jpg",
+        "name": "22001-1",
+        "model": "22001-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%201%2022001-12-200x200.jpg",
+        "name": "22001-2",
+        "model": "22001-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%201%2022001-5-200x200.jpg",
+        "name": "22001-5",
+        "model": "22001-5",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll2220253-200x200.jpg",
+        "name": "220253",
+        "model": "220253",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            4
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%2090142-3-200x200.jpg",
+        "name": "90142-3",
+        "model": "90142-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%2093593-1-200x200.jpg",
+        "name": "93593-1",
+        "model": "93593-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%2093593-2-200x200.jpg",
+        "name": "93593-2",
+        "model": "93593-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%2093593-3-200x200.jpg",
+        "name": "93593-3",
+        "model": "93593-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%2093593-4-200x200.jpg",
+        "name": "93593-4",
+        "model": "93593-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%202%20B102-200x200.jpg",
+        "name": "B102",
+        "model": "B102",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/8-kolleksiya.BF-01-200x200.jpg",
+        "name": "BF-01",
+        "model": "BF-01",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            2
+        ],
+        "weight":"315 sm",
+        "blackout":"50%",
+        "property":2,
+        "catalog":11,
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/8-kolleksiya.BF-09-200x200.jpg",
+        "name": "BF-09",
+        "model": "BF-09",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "fabrictype":1,
+        "catalog":11,
+        "weight":"315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/8-kolleksiya.BF-14-200x200.jpg",
+        "name": "BF-14",
+        "model": "BF-14",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "property": 2,
+        "fabrictype":1,
+        "catalog":11,
+        "weight":"315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/7-kolleksiya.BO-127-200x200.jpg",
+        "name": "BO-127",
+        "model": "BO-127",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "fabrictype":1,
+        "catalog":11,
+        "weight":"315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/7-kolleksiya.BO-134-200x200.jpg",
+        "name": "BO-134",
+        "model": "BO-134",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "fabrictype":1,
+        "catalog":11,
+        "weight":"315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/7-kolleksiya.BO-145-200x200.jpg",
+        "name": "BO-145",
+        "model": "BO-145",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "fabrictype":1,
+        "catalog":11,
+        "weight":"315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/7-kolleksiya.BO-170-200x200.jpg",
+        "name": "BO-170",
+        "model": "BO-170",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            4
+        ],
+        "property": 2,
+        "fabrictype":1,
+        "catalog":11,
+        "weight":"315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/3-kolleksiya.BS-101-200x200.jpg",
+        "name": "BS-101",
+        "model": "BS-101",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "fabrictype": 1,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/3-kolleksiya.BS-102-200x200.jpg",
+        "name": "BS-102",
+        "model": "BS-102",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/3-kolleksiya.BS-108-200x200.jpg",
+        "name": "BS-108",
+        "model": "BS-108",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%20BS121-200x200.jpg",
+        "name": "BS121",
+        "model": "BS121",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            2
+        ],
+        "blackout":"50%",
+        "weight":"315 sm",
+        "catalog":8,
+        "property":2,
+        "fabrictype":1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%20BS125-200x200.jpg",
+        "name": "BS125",
+        "model": "BS125",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            9
+        ],
+        "blackout":"50%",
+        "weight":"315 sm",
+        "catalog":8,
+        "property":2,
+        "fabrictype":1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/3-kolleksiya.KBS-105-200x200.jpg",
+        "name": "KBS-105",
+        "model": "KBS-105",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype":1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/3-kolleksiya.KBS-116-200x200.jpg",
+        "name": "KBS-116",
+        "model": "KBS-116",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+        
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%205%20MZ-2-200x200.jpg",
+        "name": "MZ-2",
+        "model": "MZ-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "37.748",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":11,
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%205%20MZ-4-200x200.jpg",
+        "name": "MZ-4",
+        "model": "MZ-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "37.748",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":11,
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%205%20MZ-5-200x200.jpg",
+        "name": "MZ-5",
+        "model": "MZ-5",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "37.748",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":11,
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/2-kolleksiya.PM-13-200x200.jpg",
+        "name": "PM-13",
+        "model": "PM-13",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype":1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/2-kolleksiya.PM-14-200x200.jpg",
+        "name": "PM-14",
+        "model": "PM-14",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/5-kolleksiya.VP-04-200x200.jpg",
+        "name": "VP-04",
+        "model": "VP-04",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "37.748",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "catalog":11,
+        "weight":"315 sm",
+        "fabrictype":1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/5-kolleksiya.VP-06-200x200.jpg",
+        "name": "VP-06",
+        "model": "VP-06",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "37.748",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "catalog":11,
+        "weight":"315 sm",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/5-kolleksiya.VU-06-200x200.jpg",
+        "name": "VU-06",
+        "model": "VU-06",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "37.748",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "catalog":11,
+        "fabrictype": 1,
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/6-kolleksiya.YK-05-200x200.jpg",
+        "name": "YK-05",
+        "model": "YK-05",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog":11,
+        "fabrictype":1,
+        "weight":"315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/6-kolleksiya.YK-08-200x200.jpg",
+        "name": "YK-08",
+        "model": "YK-08",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "catalog":11,
+        "fabrictype":1,
+        "blackout":"50%",
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-1-200x200.jpg",
+        "name": "YK-1",
+        "model": "YK-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "catalog":11,
+        "fabrictype":1,
+        "blackout":"50%",
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-4-200x200.jpg",
+        "name": "YK-4",
+        "model": "YK-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            14
+        ],
+        "property": 2,
+        "catalog":11,
+        "fabrictype":1,
+        "blackout":"50%",
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-6-200x200.jpg",
+        "name": "YK-6",
+        "model": "YK-6",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog":11,
+        "fabrictype":1,
+        "blackout":"50%",
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-9-200x200.jpg",
+        "name": "YK-9",
+        "model": "YK-9",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            16
+        ],
+        "property": 2,
+        "catalog":11,
+        "fabrictype":1,
+        "blackout":"50%",
+        "weight":"315 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%207%20ZF-4-200x200.jpg",
+        "name": "ZF-4",
+        "model": "ZF-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 3,
+        "price": "50.331",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "catalog":11,
+        "fabrictype":1,
+        "blackout":"50%",
+        "weight":"315 sm"
+    }
+]

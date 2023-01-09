@@ -8,7 +8,7 @@ from post import post_objects
 pageNum = int(input("Number of page: "))
 
 
-url = f'http://www.jalyuzi.uz/rulonniy-shtori-kombo/kitayskiy?limit=100&page={pageNum}'
+url = f'http://www.jalyuzi.uz/rulonniy-bambukiviy'
 
 page = requests.get(url)
 
@@ -49,7 +49,7 @@ catalogs = [
     'DIAMOND',
     'EXCLUSIVE',
     'коллекция № 0',
-    'коллекция № 1',
+    'коллекция №1',
     'коллекция № 2',
     'коллекция № 3',
     'коллекция № 4',
@@ -68,7 +68,7 @@ categories = [
     "Рулонные кассетные КOMBO",
     "Жалюзи Вертикальные пластиковые",
     "Рулонные шторы РОЛЛО",
-    "Рулонные шторы шангриЛА"
+    "Рулонные шторы шангриЛА",
     "Фото жалюзи"
 ]
 
@@ -98,7 +98,6 @@ for index, card in enumerate(cards):
     category_id = categories.index(table_td[1].text.strip())
     price = str(price.text.strip()[:-3])
 
-
     usd = 11325.00
 
 
@@ -107,8 +106,7 @@ for index, card in enumerate(cards):
         'name': title.text.strip(),
         'model': title.text.strip(),
         'type_id': False,
-        'category': 2,
-        'subcategory': category_id + 1,
+        'category': category_id + 1,
         'price': str(int(price) / usd)[:6],
         'count': 10,
         'status': True,
@@ -138,66 +136,79 @@ for i in range(len(urls)):
     name_list = table.find_all('th')[1:]    
     
 
+
+
+   
+    
     try:
 
         if name_list[1].text == 'Цвет':
             color_id = colors.index(value_list[1].text.capitalize())
             data[i]['color'].append(color_id + 1)
+
     except IndexError:
         print('stupid color')
 
-    try:
+    
+    # try:
 
-        if name_list[2].text == 'Свойство':
-            property_id = properties.index(value_list[2].text.capitalize())
-            data[i]['property'] = property_id + 1
-    except IndexError:
-        print('stupid property')
+    #     if name_list[1].text == 'Свойство':
+    #         property_id = properties.index(value_list[1].text.capitalize())
+    #         data[i]['property'] = property_id + 1
+        
+    # except IndexError:
+    #     print('stupid property')
+
+    # try:
+    #     if name_list[3].text == 'Каталог':
+    #         catalog_id = catalogs.index(value_list[3].text)
+    #         data[i]['catalog'] = catalog_id + 1  
+    #     elif name_list[3].text == 'Свойство':
+    #         property_id = properties.index(value_list[3].text.capitalize())
+    #         data[i]['property'] = property_id + 1
+    # except IndexError:
+    #     print('stupid catalog')
+
+    
     
 
-    try:
-
-        if name_list[3].text == 'Каталог':
-            catalog_id = catalogs.index(value_list[3].text)
-            data[i]['catalog'] = catalog_id + 1  
-    except IndexError:
-        print('stupid catalog')
+    
     
 
     
-    try:
+    # try:
 
-        if name_list[4].text == 'Ширина':
-            weight = value_list[4].text.capitalize()
+    #     if name_list[4].text == 'Ширина':
+    #         weight = value_list[4].text.capitalize()
 
-            if str(weight)[3:] == ' см':
-                weight = value_list[4].text.strip()[:3] + ' sm'
-                data[i]['weight'] = weight 
+    #         if str(weight)[3:] == ' см':
+    #             weight = value_list[4].text.strip()[:3] + ' sm'
+    #             data[i]['weight'] = weight 
             
-    except IndexError:
-        print('stupid weight')
+    # except IndexError:
+    #     print('stupid weight')
 
     try:
 
-        if name_list[5].text == 'Затемнение:':
-            blackout = value_list[5].text.capitalize()
+        if name_list[2].text == 'Затемнение:':
+            blackout = value_list[2].text.capitalize()
             data[i]['blackout'] = blackout
     except IndexError:
         print('stupid blackout')
 
-    try:
-        if name_list[6].text == 'Тип ткани':
-            fabrictype_id = fabrictypes.index(value_list[6].text.capitalize())
-            data[i]['fabrictype'] = fabrictype_id + 1
-    except IndexError:
-        print('stupid fabrictype')
+    # try:
+    #     if name_list[3].text == 'Тип ткани':
+    #         fabrictype_id = fabrictypes.index(value_list[3].text.capitalize())
+    #         data[i]['fabrictype'] = fabrictype_id + 1
+    # except IndexError:
+    #     print('stupid fabrictype')
     
     
 
 
 data = json.dumps(data)
 
-f = open(f"db{pageNum}.json", "a")
+f = open(f"dbrulloniy{pageNum}.json", "a")
 f.write(data)
 f.close()
 

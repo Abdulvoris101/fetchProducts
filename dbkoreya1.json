@@ -1,0 +1,567 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.JS05-1-200x200.jpg",
+        "name": "JS05-1",
+        "model": "JS05-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 9,
+        "property": 1,
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.JS05-2-200x200.jpg",
+        "name": "JS05-2",
+        "model": "JS05-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.JS05-3-200x200.jpg",
+        "name": "JS05-3",
+        "model": "JS05-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 9,
+        "property": 1,
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.JS11-1-200x200.jpg",
+        "name": "JS11-1",
+        "model": "JS11-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 9,
+        "property": 1,
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.JS11-2-200x200.jpg",
+        "name": "JS11-2",
+        "model": "JS11-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 9,
+        "property": 1,
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.JS11-3-200x200.jpg",
+        "name": "JS11-3",
+        "model": "JS11-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 9,
+        "property": 1,
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.JS11-4-200x200.jpg",
+        "name": "JS11-4",
+        "model": "JS11-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 9,
+        "property": 1,
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.KL-1-200x200.jpg",
+        "name": "KL-1",
+        "model": "KL-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1,
+        "property":1,
+        "catalog":8
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.KL-2-200x200.jpg",
+        "name": "KL-2",
+        "model": "KL-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "weight": "300 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1,
+        "catalog":8,
+        "property":2 
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.KL-3-200x200.jpg",
+        "name": "KL-3",
+        "model": "KL-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1,
+        "catalog":8,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.MIX-1-200x200.jpg",
+        "name": "MIX-1",
+        "model": "MIX-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "catalog": 9,
+        "property":1,
+        "weight":"280 sm",
+        "blackout":"20-30%",
+        "fabrictype":1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/2-kolleksiya.MIX-2-200x200.jpg",
+        "name": "MIX-2",
+        "model": "MIX-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "35.231",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "catalog": 9,
+        "property":1,
+        "weight":"280 sm",
+        "blackout":"20-30%",
+        "fabrictype":1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/4-kolleksiya.PISA-2-200x200.jpg",
+        "name": "PISA-2",
+        "model": "PISA-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "41.942",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1,
+        "catalog":10,
+        "property":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/4-kolleksiya.PISA-4-200x200.jpg",
+        "name": "PISA-4",
+        "model": "PISA-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "41.942",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog":10
+    },  
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/4-kolleksiya.PISA-5-200x200.jpg",
+        "name": "PISA-5",
+        "model": "PISA-5",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "41.942",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1,
+        "property":2,
+        "catalog":10
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.KL-1-200x200.jpg",
+        "name": "R2-1",
+        "model": "R2-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "31.876",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property":2,
+        "blackout":"50%",
+        "weight":"240 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/1-kolleksiya.R2-2-200x200.jpg",
+        "name": "R2-2",
+        "model": "R2-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "31.876",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 8,
+        "blackout":"50%",
+        "weight":"240 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/1-kolleksiya.R2-3-200x200.jpg",
+        "name": "R2-3",
+        "model": "R2-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "31.876",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/1-kolleksiya.R2-4-200x200.jpg",
+        "name": "R2-4",
+        "model": "R2-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "31.876",
+        "count": 10,
+        "status": true,
+        "color": [
+            11
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/1-kolleksiya.R2-6-200x200.jpg",
+        "name": "R2-6",
+        "model": "R2-6",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "31.876",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/1-kolleksiya.R2-7-200x200.jpg",
+        "name": "R2-7",
+        "model": "R2-7",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "31.876",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.SL-1-200x200.jpg",
+        "name": "SL-1",
+        "model": "SL-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "weight": "280 sm",
+        "blackout": "20-30%",
+        "fabrictype": 1,
+        "property":1,
+        "catalog":9
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.SL-2-200x200.jpg",
+        "name": "SL-2",
+        "model": "SL-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "weight": "240 sm",
+        "blackout": "50%",
+        "fabrictype": 1,
+        "property":1,
+        "catalog":9
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.SL-3-200x200.jpg",
+        "name": "SL-3",
+        "model": "SL-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "property": 1,
+        "fabrictype":1,
+        "weight":"245 sm",
+        "catalog":9,
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.SL-4-200x200.jpg",
+        "name": "SL-4",
+        "model": "SL-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "30.198",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "weight":"245 sm",
+        "catalog":9
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.TN-1-200x200.jpg",
+        "name": "TN-1",
+        "model": "TN-1",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":8,
+        "weight":"240 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.TN-2-200x200.jpg",
+        "name": "TN-2",
+        "model": "TN-2",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":8,
+        "weight":"240 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.TN-3-200x200.jpg",
+        "name": "TN-3",
+        "model": "TN-3",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":8,
+        "weight":"240 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/3-kolleksiya.TN-4-200x200.jpg",
+        "name": "TN-4",
+        "model": "TN-4",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "blackout": "50%",
+        "fabrictype": 1,
+        "catalog":8,
+        "weight":"240 sm"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/kombo/1-kolleksiya.R2-5-200x200.jpg",
+        "name": "\u041a2-5",
+        "model": "\u041a2-5",
+        "type_id": false,
+        "category": 1,
+        "subcategory": 2,
+        "price": "31.876",
+        "count": 10,
+        "status": true,
+        "color": [
+            7
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout":"50%"
+    }
+]
