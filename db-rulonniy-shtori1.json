@@ -1,0 +1,272 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.20082-2-200x200.jpg",
+        "name": "20082-2",
+        "model": "20082-2",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.20082-6-200x200.jpg",
+        "name": "20082-6",
+        "model": "20082-6",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/3-kolleksiya.20089-1-200x200.jpg",
+        "name": "20089-1",
+        "model": "20089-1",
+        "type_id": false,
+        "category": 10,
+        "price": "27.682",
+        "count": 10,
+        "status": true,
+        "color": [
+            4
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/3-kolleksiya.20089-2-200x200.jpg",
+        "name": "20089-2",
+        "model": "20089-2",
+        "type_id": false,
+        "category": 10,
+        "price": "27.682",
+        "count": 10,
+        "status": true,
+        "color": [
+            2
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/3-kolleksiya.20089-3-200x200.jpg",
+        "name": "20089-3",
+        "model": "20089-3",
+        "type_id": false,
+        "category": 10,
+        "price": "27.682",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/3-kolleksiya.20089-5-200x200.jpg",
+        "name": "20089-5",
+        "model": "20089-5",
+        "type_id": false,
+        "category": 10,
+        "price": "27.682",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/3-kolleksiya.20089-6-200x200.jpg",
+        "name": "20089-6",
+        "model": "20089-6",
+        "type_id": false,
+        "category": 10,
+        "price": "27.682",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "catalog": 10,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya-200x200.jpg",
+        "name": "4001",
+        "model": "4001",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.4002-200x200.jpg",
+        "name": "4002",
+        "model": "4002",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.4004-200x200.jpg",
+        "name": "4004",
+        "model": "4004",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.5001-200x200.jpg",
+        "name": "5001",
+        "model": "5001",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.5002-200x200.jpg",
+        "name": "5002",
+        "model": "5002",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            6
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.5003-200x200.jpg",
+        "name": "5003",
+        "model": "5003",
+        "type_id": false,
+        "category": 10,
+        "price": "0.0",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/2-kolleksiya.5005-200x200.jpg",
+        "name": "5005",
+        "model": "5005",
+        "type_id": false,
+        "category": 10,
+        "price": "26.004",
+        "count": 10,
+        "status": true,
+        "color": [
+            11
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/1-kolleksiya.B55001-200x200.jpg",
+        "name": "B55001",
+        "model": "B55001",
+        "type_id": false,
+        "category": 10,
+        "price": "22.649",
+        "count": 10,
+        "status": true,
+        "color": [
+            4
+        ],
+        "catalog": 8,
+        "property": 2,
+        "weight": "280 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    }
+]

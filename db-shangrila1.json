@@ -1,0 +1,104 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/6-kolleksiya.20105-1-200x200.jpg",
+        "name": "20105-1",
+        "model": "20105-1",
+        "type_id": false,
+        "category": 11,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            6
+        ],
+        "property": 2,
+        "weight": "280 sm",
+        "fabrictype": 1,
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/6-kolleksiya.20105-6-200x200.jpg",
+        "name": "20105-6",
+        "model": "20105-6",
+        "type_id": false,
+        "category": 11,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "weight": "280 sm",
+        "fabrictype": 1,
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/7-kolleksiya.20171-4-200x200.jpg",
+        "name": "20171-4",
+        "model": "20171-4",
+        "type_id": false,
+        "category": 11,
+        "price": "36.070",
+        "count": 10,
+        "status": true,
+        "color": [
+            4
+        ],
+        "property": 2,
+        "weight": "280 sm",
+        "fabrictype": 1,
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/6-kolleksiya.A12-3-200x200.jpg",
+        "name": "A12-3",
+        "model": "A12-3",
+        "type_id": false,
+        "category": 11,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "weight": "280 sm",
+        "fabrictype": 1,
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/6-kolleksiya.A12-5-200x200.jpg",
+        "name": "A12-5",
+        "model": "A12-5",
+        "type_id": false,
+        "category": 11,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "weight": "280 sm",
+        "fabrictype": 1,
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/rollo/6-kolleksiya.A12-6-200x200.jpg",
+        "name": "A12-6",
+        "model": "A12-6",
+        "type_id": false,
+        "category": 11,
+        "price": "33.554",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "weight": "280 sm",
+        "fabrictype": 1,
+        "blackout":"50%"
+    }
+]

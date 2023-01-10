@@ -9,7 +9,7 @@ headers = {
 }
 
 
-page = r.post('http://localhost:8000/api/products/', data=open('dbrulloniy1.json', 'rb'), headers=headers)
+page = r.post('http://localhost:8000/api/products/', data=open('db-goralyum1.json', 'rb'), headers=headers)
 
 print(page.text)
     

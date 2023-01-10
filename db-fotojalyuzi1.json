@@ -1,0 +1,166 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%202%20220253-200x200.jpg",
+        "name": "220253",
+        "model": "220253",
+        "type_id": false,
+        "category": 12,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            4
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%202%20B102-200x200.jpg",
+        "name": "B102",
+        "model": "B102",
+        "type_id": false,
+        "category": 12,
+        "price": "36.909",
+        "count": 10,
+        "status": true,
+        "color": [
+            3
+        ],
+        "catalog": 9,
+        "property": 2,
+        "weight": "315 sm",
+        "blackout": "50%",
+        "fabrictype": 1
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%20BS121-200x200.jpg",
+        "name": "BS121",
+        "model": "BS121",
+        "type_id": false,
+        "category": 12,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            21
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/koll%203%20BS125-200x200.jpg",
+        "name": "BS125",
+        "model": "BS125",
+        "type_id": false,
+        "category": 12,
+        "price": "38.587",
+        "count": 10,
+        "status": true,
+        "color": [
+            21
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/6-kolleksiya.YK-05-200x200.jpg",
+        "name": "YK-05",
+        "model": "YK-05",
+        "type_id": false,
+        "category": 12,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/COMBOnew/6-kolleksiya.YK-08-200x200.jpg",
+        "name": "YK-08",
+        "model": "YK-08",
+        "type_id": false,
+        "category": 12,
+        "price": "58.719",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-1-200x200.jpg",
+        "name": "YK-1",
+        "model": "YK-1",
+        "type_id": false,
+        "category": 12,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            1
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-4-200x200.jpg",
+        "name": "YK-4",
+        "model": "YK-4",
+        "type_id": false,
+        "category": 12,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            14
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-6-200x200.jpg",
+        "name": "YK-6",
+        "model": "YK-6",
+        "type_id": false,
+        "category": 12,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            8
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/TuretskiyKombo/6%20kollek%20YK-9-200x200.jpg",
+        "name": "YK-9",
+        "model": "YK-9",
+        "type_id": false,
+        "category": 12,
+        "price": "46.975",
+        "count": 10,
+        "status": true,
+        "color": [
+            16
+        ],
+        "property": 2,
+        "weight": "315 sm",
+        "blackout":"50%"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/gorizontalniyAlumin/15dolar-200x200.jpg",
+        "name": "gor1",
+        "model": "gor1",
+        "type_id": false,
+        "category": 3,
+        "price": "9.2273",
+        "count": 10,
+        "status": true,
+        "color": [],
+        "property": 1,
+        "fabrictype": 2,
+        "blackout":"None"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/gorizontalniyAlumin/15dollor-200x200.jpg",
+        "name": "gor2",
+        "model": "gor2",
+        "type_id": false,
+        "category": 3,
+        "price": "9.2273",
+        "count": 10,
+        "status": true,
+        "color": [],
+        "property": 1,
+        "fabrictype": 2,
+        "blackout":"None"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/gorizontalniyAlumin/18dollor-200x200.jpg",
+        "name": "gor3",
+        "model": "gor3",
+        "type_id": false,
+        "category": 3,
+        "price": "10.485",
+        "count": 10,
+        "status": true,
+        "color": [],
+        "property": 1,
+        "fabrictype": 2,
+        "blackout":"None"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/gorizontalniyAlumin/20dollor-200x200.jpg",
+        "name": "gor4",
+        "model": "gor4",
+        "type_id": false,
+        "category": 3,
+        "price": "11.743",
+        "count": 10,
+        "status": true,
+        "color": [],
+        "property": 1,
+        "fabrictype": 2,
+        "blackout":"None"
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/gorizontalniyAlumin/22dollor-200x200.jpg",
+        "name": "gor5",
+        "model": "gor5",
+        "type_id": false,
+        "category": 3,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [],
+        "property": 1,
+        "fabrictype": 2,
+        "blackout":"None"
+    }
+]

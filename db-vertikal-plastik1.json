@@ -1,0 +1,231 @@
+[
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/105-200x200.jpg",
+        "name": "105",
+        "model": "105",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype": 2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/106-200x200.jpg",
+        "name": "106",
+        "model": "106",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype": 2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/117-200x200.jpg",
+        "name": "117",
+        "model": "117",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/118-200x200.jpg",
+        "name": "118",
+        "model": "118",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            21,
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/206-200x200.jpg",
+        "name": "206",
+        "model": "206",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            21,
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/207-200x200.jpg",
+        "name": "207",
+        "model": "207",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            11,
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/210-200x200.jpg",
+        "name": "210",
+        "model": "210",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/213-200x200.jpg",
+        "name": "213",
+        "model": "213",
+        "type_id": false,
+        "category": 9,
+        "price": "16.777",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/214-200x200.jpg",
+        "name": "214",
+        "model": "214",
+        "type_id": false,
+        "category": 9,
+        "price": "16.777",
+        "count": 10,
+        "status": true,
+        "color": [
+            12
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/222-200x200.jpg",
+        "name": "222",
+        "model": "222",
+        "type_id": false,
+        "category": 9,
+        "price": "16.777",
+        "count": 10,
+        "status": true,
+        "color": [
+            10,
+            21
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype": 2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/226-200x200.jpg",
+        "name": "226",
+        "model": "226",
+        "type_id": false,
+        "category": 9,
+        "price": "14.260",
+        "count": 10,
+        "status": true,
+        "color": [
+            5
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/235-200x200.jpg",
+        "name": "235",
+        "model": "235",
+        "type_id": false,
+        "category": 9,
+        "price": "16.777",
+        "count": 10,
+        "status": true,
+        "color": [
+            9
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/236-200x200.jpg",
+        "name": "236",
+        "model": "236",
+        "type_id": false,
+        "category": 9,
+        "price": "16.777",
+        "count": 10,
+        "status": true,
+        "color": [
+            9
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    },
+    {
+        "image_url": "http://www.jalyuzi.uz/image/cache/catalog/photos/item/VerAlumin/243-200x200.jpg",
+        "name": "243",
+        "model": "243",
+        "type_id": false,
+        "category": 9,
+        "price": "16.777",
+        "count": 10,
+        "status": true,
+        "color": [
+            9
+        ],
+        "property": 1,
+        "blackout": "20-30%",
+        "fabrictype":2
+    }
+]
